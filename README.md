@@ -45,7 +45,7 @@ Pastikan Anda telah menginstal:
 
 1.  **Clone Repositori**
     ```bash
-    git clone https://github.com/theaam/UAS.git)
+    git clone https://github.com/theaam/UAS.git
     cd UAS
     ```
 
