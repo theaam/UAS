@@ -45,8 +45,8 @@ Pastikan Anda telah menginstal:
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/username-anda/project-uts-celeo-bakery.git](https://github.com/username-anda/project-uts-celeo-bakery.git)
-    cd project-uts-celeo-bakery
+    git clone https://github.com/theaam/UAS.git)
+    cd UAS
     ```
 
 2.  **Instal Dependencies**
